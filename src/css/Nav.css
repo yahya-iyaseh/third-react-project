@@ -1,0 +1,18 @@
+  @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+      nav{
+        font-family: 'Permanent Marker', cursive;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2.2rem;
+        background-color: #DD4A48;
+        padding: 1.2rem;
+        color: white;
+        
+      }
+
+      nav > span > i{
+        margin: auto 1rem;
+        text-shadow: 0px 0px .3rem #A3DA8D;
+        font-size: 3rem;
+      }
